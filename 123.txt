@@ -1,2 +1,6 @@
 Day one session
 practice
+
+
+Day 2 Practice 
+about crating a new branch 
